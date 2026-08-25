@@ -28,6 +28,6 @@ public:
             }
         }
 
-        return write;
+    return write;
     }
 };
